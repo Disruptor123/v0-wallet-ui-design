@@ -510,4 +510,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ using [v0.app](https://v0.app), Next.js, React, and ethers.js
+ using, Next.js, React, and ethers.js
